@@ -1,5 +1,5 @@
 # SocialVRfortheMetaversewithA-FrameWebXR
-<img src="https://rocketvirtual.com/VRbook/bookCoverFinalsm.png" /><br><br>
+<a href="https://funbit64.com/drupal/index.php/node/11" ><img src="https://rocketvirtual.com/VRbook/bookCoverFinalsm.png" /></a><br><br>
 
 My free book on how to build your own independent Open-source Social VR Metaverse
 

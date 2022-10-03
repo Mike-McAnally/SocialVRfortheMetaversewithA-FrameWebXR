@@ -1,4 +1,6 @@
 # SocialVRfortheMetaversewithA-FrameWebXR
+<img src="https://rocketvirtual.com/VRbook/bookCoverFinalsm.png" /><br><br>
+
 My free book on how to build your own independent Open-source Social VR Metaverse
 
 PDF download can be found here:
